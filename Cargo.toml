@@ -1,0 +1,15 @@
+[workspace]
+members = [
+	"warheads-lib",
+	"warheads-server",
+	"warheads-client",
+]
+
+[workspace.package]
+version = "0.0.1"
+authors = ["Stridsvagn69420", "The Nucleus Language Team"]
+description = "Official missile launch facility"
+repository = "https://github.com/nucleus-lang/warheads.io.git"
+publish = false
+readme = "README.md"
+edition = "2021"
